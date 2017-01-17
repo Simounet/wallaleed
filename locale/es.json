@@ -1,0 +1,10 @@
+{
+  "P_WALLALEED_SHARE_WITH_WALLABAG": "Compartir en wallabag",
+  "P_WALLALEED_WALLABAG_EXCLAMATION": "wallabag it!",
+  "P_WALLALEED_WALLABAG": "wallabag",
+  "P_WALLALEED_PLUGIN_TITLE": "Plugin wallabag",
+  "P_WALLALEED_WALLABAG_LINK": "Enlace hacia vuestro wallabag :",
+  "P_WALLALEED_SAVE": "Registrar",
+  "P_WALLALEED_NB_INFO": "<strong>NB:<\/strong> Esa opción presentara un botón al lado de cada publicación para ofrecerle de la añadir en wallabag.",
+  "P_WALLALEED_CONNECTION_ERROR": "Usted debe haber iniciado una sesión para continuar."
+}

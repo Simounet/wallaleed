@@ -1,0 +1,10 @@
+{
+  "P_WALLALEED_SHARE_WITH_WALLABAG": "Partager sur wallabag",
+  "P_WALLALEED_WALLABAG_EXCLAMATION": "wallabag it!",
+  "P_WALLALEED_WALLABAG": "wallabag",
+  "P_WALLALEED_PLUGIN_TITLE": "Plugin wallabag",
+  "P_WALLALEED_WALLABAG_LINK": "Lien vers votre wallabag :",
+  "P_WALLALEED_SAVE": "Enregistrer",
+  "P_WALLALEED_NB_INFO": "<strong>NB:<\/strong> Cette option affichera un bouton à côté de chaque article pour vous proposer de le stocker sur wallabag.",
+  "P_WALLALEED_CONNECTION_ERROR": "Vous devez être connecté pour cette action."
+}

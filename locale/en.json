@@ -1,0 +1,10 @@
+{
+  "P_WALLALEED_SHARE_WITH_WALLABAG": "Share with wallabag",
+  "P_WALLALEED_WALLABAG_EXCLAMATION": "wallabag it!",
+  "P_WALLALEED_WALLABAG": "wallabag",
+  "P_WALLALEED_PLUGIN_TITLE": "wallabag plugin",
+  "P_WALLALEED_WALLABAG_LINK": "Your wallabag link :",
+  "P_WALLALEED_SAVE": "Save",
+  "P_WALLALEED_NB_INFO": "<strong>NB:<\/strong> This option will display a button beside every news to save it on your wallabag service.",
+  "P_WALLALEED_CONNECTION_ERROR": "You have to be logged for this action."
+}
