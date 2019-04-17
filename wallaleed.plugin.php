@@ -4,7 +4,7 @@
 @author Simounet <http://www.simounet.net>
 @link https://github.com/Leed-market/wallaleed
 @licence GPLv3
-@version 1.0.0
+@version 1.0.1
 @description This plugin wallaleed add an article sharing option from Leed to <a target="_blank" href="https://wallabag.org/">wallabag (v2)</a>.
 */
 
