@@ -66,7 +66,7 @@ function wallaleedPluginUpdateUrl($_){
     }
 }
 
-Plugin::addHook('event_post_top_options', 'wallaleedPluginAddTo');
+Plugin::addHook('event_share_actions', 'wallaleedPluginAddTo');
 Plugin::addHook('setting_post_link', 'wallaleedPluginSettingsLink');
 Plugin::addHook('setting_post_section', 'wallaleedPluginSettingsBlock');
 Plugin::addHook("action_post_case", "wallaleedPluginUpdateUrl");
